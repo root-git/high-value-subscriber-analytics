@@ -1,4 +1,4 @@
-# Strategic Customer Targeting Analysis
+# Customer Analytics: Identifying High-Value Subscribers
 ## Overview
 This project analyzes a real-world consumer subscription dataset to identify high-potential customers for a subscription service. It involves data cleaning, exploration, and segmentation to provide insights for marketing and retention.
 
