@@ -2,7 +2,7 @@
 ## Overview
 This project analyzes a real-world consumer subscription dataset to identify high-potential customers for a subscription service. It involves data cleaning, exploration, and segmentation to provide insights for marketing and retention.
 
-The original dataset was messy, with undefined columns, test records, and missing values. This reflects the type of raw, imperfect data analysts often encounter in production. The project demostrates my ability to clean messy data, extract signal from noise, and build predictive models despite limitations.
+The original dataset was messy, with undefined columns, test records, and missing values. This reflects the type of raw, imperfect data analysts often encounter in production. 
 
 ## Key Steps
 1. ### Data Cleaning & Preparation
