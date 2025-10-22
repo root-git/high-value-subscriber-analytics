@@ -4,6 +4,13 @@ This project analyzes a real-world consumer subscription dataset to identify hig
 
 The original dataset was messy, with undefined columns, test records, and missing values. This reflects the type of raw, imperfect data analysts often encounter in production. 
 
+## Why This Project Matters
+Retenton is critical for subscription-based startups. Acquiring a new customer can cost 5-25x more than retaining one, yet many early-stage companies struggle to target the right customer types and marketing channels drive the most value is key to growing sustainably.
+
+This project shows my ability to:
+* Turn messy, incomplete data into actionable insights.
+* Bridge data science and business strategy to guide marketing and growth decisions.
+
 ## Key Steps
 1. ### Data Cleaning & Preparation
 * Removed test records and irrelevant identifiers (name, address, etc.).
@@ -22,8 +29,5 @@ The original dataset was messy, with undefined columns, test records, and missin
 * Feature gaps: Limited variables restricted predictive power, highlighted importance of high-quality data pipelines in analytics engineering.
 * Interpretability: Even with moderate accuracy, the project demonstrates how to extract actionable insights for acquiring high potential customers.
 
-## Why This Project Matters
-Companies with subscription model live or die by retention. This project shows my ability to:
-* Work with messy, incomplete data and still deliver insights.
-* Bridge data science + business thinking.
+
   
